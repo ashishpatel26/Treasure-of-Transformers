@@ -143,7 +143,7 @@
 
 #### Instruction
 
-* All blogs have links and some links contains different languages blog such as Chinese, Korean etc. for this Please use [Google Tranlater Page Convert](https://chrome.google.com/webstore/detail/google-translate/aapbdbdomjkkjkaonfhkkikfgjllcleb?hl=en).
+* All blogs have links and some links contains different languages blog such as Chinese, Korean etc. for this Please use [Google Translater Page Convert](https://chrome.google.com/webstore/detail/google-translate/aapbdbdomjkkjkaonfhkkikfgjllcleb?hl=en).
 
 ---
 
